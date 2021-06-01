@@ -6,8 +6,7 @@ from MYGLOBALVARIABLES import *
 import operator
 
 CHROME_WEBDRIVER_PATH = "D:\chromedriver.exe"
-USERNAME = "evienevillee"
-#USERNAME = "zaynmalik"
+USERNAME = "zaynmalik"
 
 
 
